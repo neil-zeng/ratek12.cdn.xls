@@ -1,0 +1,20 @@
+{
+  "name": "ratek12-cdn-xls",
+  "version": "0.1.0",
+  "description": "CDN for Ratek12.com for XLS",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neil-zeng/ratek12.cdn.xls.git"
+  },
+  "keywords": [],
+  "author": "Neil Zeng <neil.zeng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neil-zeng/ratek12.cdn.xls/issues"
+  },
+  "homepage": "https://github.com/neil-zeng/ratek12.cdn.xls#readme"
+}
