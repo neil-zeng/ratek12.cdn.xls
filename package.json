@@ -1,6 +1,6 @@
 {
   "name": "ratek12-cdn-xls",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CDN for Ratek12.com for XLS",
   "main": "index.js",
   "scripts": {
